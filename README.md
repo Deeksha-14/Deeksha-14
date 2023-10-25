@@ -46,7 +46,7 @@ I'm <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/deeeksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deeeksha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deeksha-k-3124b8110" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/deeksha-k-3124b8110" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/deeksha-k-3124b8110" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/deeksha-k-3124b8110" height="40" width="40" /></a>
 <a href="https://instagram.com/deeeksha.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deeeksha.k" height="30" width="40" /></a>
 </p>
 
