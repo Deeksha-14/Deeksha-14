@@ -51,9 +51,6 @@ I'm <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg
 </p>
 
 
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
      
