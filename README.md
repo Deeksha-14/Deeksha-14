@@ -12,17 +12,17 @@ I'm <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg
 
 
 
-- 🔭 I’m currently working on [Java Based Projects](https://github.com/Deeksha-14/Core-Java.git)
+- 🔭 I’m currently working on Quantum Algorithms
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Quantum Computation**
 
-- 👯 I’m looking to collaborate on [Advance Java Based Projects](https://github.com/Deeksha-14/Advance-Java.git)
+- 👯 I’m looking to collaborate on Python Based Projects
 
 <!-- - 🤝 I’m looking for help with [C# Based Projects](https://github.com/Deeksha-14/C-Sharp.git) -->
 
 - 👨‍💻 All of my projects are available at [Deeksha-14 on git](Deeksha-14 on git)
 
-- 💬 Ask me about **J2SE, J2EE, HTML, CSS, JS, REACT**
+- 💬 Ask me about **J2SE, J2EE, HTML, CSS, JS, REACT, Python, Quantum**
 
 <!-- 📫 How to reach me **deekshakushwah0@gmail.com**-->
 
