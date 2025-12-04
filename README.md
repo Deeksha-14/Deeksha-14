@@ -43,6 +43,8 @@ I'm <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg
   />
 </picture>
 
+![Snake animation](https://github.com/Deeksha-14/Deeksha-14/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/deeeksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deeeksha" height="30" width="40" /></a>
