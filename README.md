@@ -6,9 +6,9 @@ I'm <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg
 
 <h3 align="center">𝓐 𝓟𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓯𝓻𝓸𝓶 𝓘𝓷𝓭𝓲𝓪</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deeksha-14&label=Profile%20views&color=0e75b6&style=flat" alt="deeksha-14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deeksha-14&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="deeksha-14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeksha-14" alt="deeksha-14" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeksha-14" alt="deeksha-14" /></a> </p> -->
 
 
 
