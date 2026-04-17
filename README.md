@@ -10,19 +10,15 @@ I'm <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeksha-14" alt="deeksha-14" /></a> </p> -->
 
+- Full Stack Developer specializing in backend engineering with Java (Spring Boot), complemented by modern frontend development using Angular and React.
 
+- 🔭 Currently exploring **advanced frontend architecture and scalable system design**
 
-- 🔭 I’m currently working on Quantum Algorithms
+- 🌱 Interested in collaborating on **high-impact full stack and microservices-based projects**
 
-- 🌱 I’m currently learning **Quantum Computation**
+- 👨‍💻 View my work: [Deeksha-14 on git](Deeksha-14 on git)
 
-- 👯 I’m looking to collaborate on Python Based Projects
-
-<!-- - 🤝 I’m looking for help with [C# Based Projects](https://github.com/Deeksha-14/C-Sharp.git) -->
-
-- 👨‍💻 All of my projects are available at [Deeksha-14 on git](Deeksha-14 on git)
-
-- 💬 Ask me about **J2SE, J2EE, HTML, CSS, JS, REACT, Python, Quantum**
+- 💬 Ask me about **Java, Spring Boot, Microservices, REST APIs, Secure Authentication (JWT, SSO), Angular, React, Tailwind CSS, HTML5, CSS3, JavaScript, Python, and Quantum Computing**
 
 <!-- 📫 How to reach me **deekshakushwah0@gmail.com**-->
 
@@ -43,7 +39,6 @@ I'm <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg
   />
 </picture>
 
-![Snake animation](https://github.com/Deeksha-14/Deeksha-14/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
