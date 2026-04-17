@@ -46,15 +46,16 @@ I'm <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg
     <a href="https://dev.to/deeeksha" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40"/>
     </a>
-
+     </span>
+<span>
     <a href="https://www.linkedin.com/in/deeeksha/" target="_blank">
       <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="40" width="40"/>
     </a>
-
+</span>
     <a href="https://instagram.com/deeeksha.k" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
     </a>
-  </span>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
